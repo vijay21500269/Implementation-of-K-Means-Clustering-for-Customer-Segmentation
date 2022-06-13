@@ -58,7 +58,8 @@ plt.title("Customer segments")
 ~~~
 
 ## Output:
-![K Means Clustering for Customer Segmentation](sam.png)
+## Data head:
+![pic !](sam.png)
 
 
 ## Result:
