@@ -59,7 +59,7 @@ plt.title("Customer segments")
 
 ## Output:
 ## Data head:
-![pic !](sam.png)
+![pic !](https://github.com/vijay21500269/Implementation-of-K-Means-Clustering-for-Customer-Segmentation/blob/main/Data%20head%20.png)
 
 
 ## Result:
