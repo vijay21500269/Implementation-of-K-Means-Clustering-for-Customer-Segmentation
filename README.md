@@ -61,7 +61,11 @@ plt.title("Customer segments")
 ## Data head:
 ![pic 1](https://github.com/vijay21500269/Implementation-of-K-Means-Clustering-for-Customer-Segmentation/blob/main/Data%20head%20.png)
 ## Data information:
-![pic 2](https://github.com/vijay21500269/Implementation-of-K-Means-Clustering-for-Customer-Segmentation/blob/main/info.png))
+![pic 2](https://github.com/vijay21500269/Implementation-of-K-Means-Clustering-for-Customer-Segmentation/blob/main/info.png)
+## Elbow method:
+![pic 3]()
+
+
 
 
 
